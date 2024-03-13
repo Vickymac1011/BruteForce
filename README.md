@@ -7,6 +7,7 @@ Usage of the BruteForce Tool:
       * Download the BruteForce.7z File, Extract the File & Execute it.
       * Input the Target URL of the Website, Which you want to BruteForce it.
       * Input the Username & Select or Browse a Path of the Password txt File.
+      * If a Site has CSRF (Cross-Site Request Forgery) is Detected, It can't be Done a Job.
 
 
 Features:
